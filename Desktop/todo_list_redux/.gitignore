@@ -1,0 +1,10 @@
+# Node modules directory
+node_modules/
+
+# Build output directory
+build/
+
+# 기타 무시할 파일
+.DS_Store
+*.log
+.env 
